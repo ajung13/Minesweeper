@@ -4,23 +4,32 @@ using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public static class timer {
+public class timer : MonoBehaviour {
 	public static Stopwatch sw;
-	private float elapsedTime;
+	private static float elapsedTime;
 
 	// Use this for initialization
 	void Start () {
+		Element.mineNum = 0;
 		sw = new Stopwatch ();
 		sw.Start ();
 	}
 	
-	public void stop(){
+	public static void stop(){
 		elapsedTime = (float)sw.ElapsedMilliseconds;
-		sw.Stop;
+		sw.Stop ();
 	}
 
-	public void gameOver(){
-		DontDestroyOnLoad (this);
+	public static void gameOver(){
+//		DontDestroyOnLoad (this);
+		SceneManager.LoadScene ("gameOverScene");
+	}
+
+	public static float getTime(){
+		return elapsedTime;
+	}
+
+	public static void gameClear(){
 		SceneManager.LoadScene ("scoreScene");
 	}
 }

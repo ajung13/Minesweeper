@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Element : MonoBehaviour {
 	public static bool gameOver;
+	public static int mineNum;
 	public bool mine;
 
 	public Sprite[] emptyTextures;
@@ -12,7 +13,8 @@ public class Element : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		mine = Random.value < 0.15;
-//		loadTexture(1);
+		if (mine)
+			mineNum++;
 
 		int x = (int)(transform.position.x / 2.5);
 		int y = (int)(transform.position.y / 2.5);
@@ -21,6 +23,7 @@ public class Element : MonoBehaviour {
 
 	void OnMouseUpAsButton(){
 		if (gameOver) {
+			gameOver = false;
 			timer.gameOver ();
 			return;
 		}
@@ -34,6 +37,7 @@ public class Element : MonoBehaviour {
 			int x = (int)(transform.position.x / 2.5);
 			int y = (int)(transform.position.y / 2.5);
 			loadTexture (myGrid.adjacentMines (x, y));
+			myGrid.gameClearCheck ();
 		}
 	}
 

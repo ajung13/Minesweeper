@@ -41,4 +41,15 @@ public class myGrid {
 
 		return count;
 	}
+		
+	public static void gameClearCheck(){
+		int covered = 0;
+		foreach (Element elem in elements) {
+			if (elem.isCovered ())
+				covered++;
+		}
+
+		if (covered == Element.mineNum)
+			timer.gameClear ();
+	}
 }
