@@ -20,13 +20,16 @@ public class Element : MonoBehaviour {
 	}
 
 	void OnMouseUpAsButton(){
-		if (gameOver)
+		if (gameOver) {
+			timer.gameOver ();
 			return;
+		}
 		
 		if (mine) {
 			myGrid.uncoverMines ();
 			print ("YOU LOSE");
 			gameOver = true;
+			timer.stop ();
 		} else {
 			int x = (int)(transform.position.x / 2.5);
 			int y = (int)(transform.position.y / 2.5);
