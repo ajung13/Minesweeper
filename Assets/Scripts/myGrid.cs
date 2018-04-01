@@ -52,4 +52,26 @@ public class myGrid {
 		if (covered == Element.mineNum)
 			timer.gameClear ();
 	}
+
+	public static void findAdj(int x, int y){
+		int tmp = adjacentMines (x, y);
+		elements [x, y].loadTexture ();
+		Debug.Log ("findAdj with parameter " + x + ", " + y);
+
+		for (int i = -1; i <= 1; i++) {
+			for (int j = -1; j <= 1; j++) {
+				if (i == 0 && j == 0)
+					continue;
+				if (x + i < 0 || y + j < 0 || x + i >= w || y + j >= h)
+					continue;
+				tmp = adjacentMines (x + i, y + j);
+				if (tmp == 0)
+					findAdj (x + i, y + j);
+				else {
+					elements [x + i, y + j].loadTexture (tmp);
+					gameClearCheck ();
+				}
+			}
+		}
+	}
 }

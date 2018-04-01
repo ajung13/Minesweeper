@@ -22,7 +22,7 @@ public class timer : MonoBehaviour {
 
 	public static void gameOver(){
 //		DontDestroyOnLoad (this);
-		SceneManager.LoadScene ("gameOverScene");
+		SceneManager.LoadScene ("Scenes/gameOverScene");
 	}
 
 	public static float getTime(){
@@ -30,6 +30,6 @@ public class timer : MonoBehaviour {
 	}
 
 	public static void gameClear(){
-		SceneManager.LoadScene ("scoreScene");
+		SceneManager.LoadScene ("Scenes/scoreScene");
 	}
 }

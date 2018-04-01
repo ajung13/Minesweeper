@@ -236,6 +236,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &57596718
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,6 +360,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &60887881
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,6 +484,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &71489369
 GameObject:
   m_ObjectHideFlags: 0
@@ -605,6 +608,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &81033043
 GameObject:
   m_ObjectHideFlags: 0
@@ -728,6 +732,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &99306109
 GameObject:
   m_ObjectHideFlags: 0
@@ -851,6 +856,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &103845536
 GameObject:
   m_ObjectHideFlags: 0
@@ -974,6 +980,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &116293910
 GameObject:
   m_ObjectHideFlags: 0
@@ -1097,6 +1104,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &138214888
 GameObject:
   m_ObjectHideFlags: 0
@@ -1258,6 +1266,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &150238925
 GameObject:
   m_ObjectHideFlags: 0
@@ -1381,6 +1390,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &150536206
 GameObject:
   m_ObjectHideFlags: 0
@@ -1504,6 +1514,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &152690489
 GameObject:
   m_ObjectHideFlags: 0
@@ -1665,6 +1676,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &163392231
 GameObject:
   m_ObjectHideFlags: 0
@@ -1788,6 +1800,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &176231898
 GameObject:
   m_ObjectHideFlags: 0
@@ -1911,6 +1924,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &184235929
 GameObject:
   m_ObjectHideFlags: 0
@@ -2034,6 +2048,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &198121823
 GameObject:
   m_ObjectHideFlags: 0
@@ -2157,6 +2172,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &213063847
 GameObject:
   m_ObjectHideFlags: 0
@@ -2280,6 +2296,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &217421806
 GameObject:
   m_ObjectHideFlags: 0
@@ -2403,6 +2420,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &241715760
 GameObject:
   m_ObjectHideFlags: 0
@@ -2526,6 +2544,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &246813617
 GameObject:
   m_ObjectHideFlags: 0
@@ -2649,6 +2668,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &255821006
 GameObject:
   m_ObjectHideFlags: 0
@@ -2772,6 +2792,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &272246896
 GameObject:
   m_ObjectHideFlags: 0
@@ -2895,6 +2916,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &280978363
 GameObject:
   m_ObjectHideFlags: 0
@@ -3018,6 +3040,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &296652742
 GameObject:
   m_ObjectHideFlags: 0
@@ -3141,6 +3164,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &297496175
 GameObject:
   m_ObjectHideFlags: 0
@@ -3264,6 +3288,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &299563208
 GameObject:
   m_ObjectHideFlags: 0
@@ -3387,6 +3412,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &305303406
 GameObject:
   m_ObjectHideFlags: 0
@@ -3510,6 +3536,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &318280611
 GameObject:
   m_ObjectHideFlags: 0
@@ -3633,6 +3660,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &323422277
 GameObject:
   m_ObjectHideFlags: 0
@@ -3756,6 +3784,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &348513233
 GameObject:
   m_ObjectHideFlags: 0
@@ -3917,6 +3946,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &376701232
 GameObject:
   m_ObjectHideFlags: 0
@@ -4040,6 +4070,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &399587798
 GameObject:
   m_ObjectHideFlags: 0
@@ -4163,6 +4194,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &425185675
 GameObject:
   m_ObjectHideFlags: 0
@@ -4286,6 +4318,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &435133704
 GameObject:
   m_ObjectHideFlags: 0
@@ -4409,6 +4442,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &496887656
 GameObject:
   m_ObjectHideFlags: 0
@@ -4532,6 +4566,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &497242842
 GameObject:
   m_ObjectHideFlags: 0
@@ -4655,6 +4690,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &531954910
 GameObject:
   m_ObjectHideFlags: 0
@@ -4816,6 +4852,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &556227763
 GameObject:
   m_ObjectHideFlags: 0
@@ -4939,6 +4976,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &557332802
 GameObject:
   m_ObjectHideFlags: 0
@@ -5062,6 +5100,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &576269591
 GameObject:
   m_ObjectHideFlags: 0
@@ -5185,6 +5224,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &623301621
 GameObject:
   m_ObjectHideFlags: 0
@@ -5308,6 +5348,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &637754884
 GameObject:
   m_ObjectHideFlags: 0
@@ -5431,6 +5472,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &649084539
 GameObject:
   m_ObjectHideFlags: 0
@@ -5554,6 +5596,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &655873001
 GameObject:
   m_ObjectHideFlags: 0
@@ -5677,6 +5720,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &665597132
 GameObject:
   m_ObjectHideFlags: 0
@@ -5800,6 +5844,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &668668422
 GameObject:
   m_ObjectHideFlags: 0
@@ -5923,6 +5968,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &683732518
 GameObject:
   m_ObjectHideFlags: 0
@@ -6046,6 +6092,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &698680257
 GameObject:
   m_ObjectHideFlags: 0
@@ -6169,6 +6216,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &701572487
 GameObject:
   m_ObjectHideFlags: 0
@@ -6292,6 +6340,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &717590186
 GameObject:
   m_ObjectHideFlags: 0
@@ -6415,6 +6464,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &738541656
 GameObject:
   m_ObjectHideFlags: 0
@@ -6538,6 +6588,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &755062409
 GameObject:
   m_ObjectHideFlags: 0
@@ -6661,6 +6712,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &764719940
 GameObject:
   m_ObjectHideFlags: 0
@@ -6784,6 +6836,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &766317810
 GameObject:
   m_ObjectHideFlags: 0
@@ -6907,6 +6960,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &767066457
 GameObject:
   m_ObjectHideFlags: 0
@@ -7030,6 +7084,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &767550738
 GameObject:
   m_ObjectHideFlags: 0
@@ -7153,6 +7208,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &768210825
 GameObject:
   m_ObjectHideFlags: 0
@@ -7276,6 +7332,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &783752326
 GameObject:
   m_ObjectHideFlags: 0
@@ -7399,6 +7456,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &795714789
 GameObject:
   m_ObjectHideFlags: 0
@@ -7522,6 +7580,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &802557042
 GameObject:
   m_ObjectHideFlags: 0
@@ -7645,6 +7704,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &803624893
 GameObject:
   m_ObjectHideFlags: 0
@@ -7768,6 +7828,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &819317925
 GameObject:
   m_ObjectHideFlags: 0
@@ -7891,6 +7952,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &821781518
 GameObject:
   m_ObjectHideFlags: 0
@@ -8014,6 +8076,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &835196357
 GameObject:
   m_ObjectHideFlags: 0
@@ -8137,6 +8200,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &857821224
 GameObject:
   m_ObjectHideFlags: 0
@@ -8260,6 +8324,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &886164559
 GameObject:
   m_ObjectHideFlags: 0
@@ -8383,6 +8448,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &908680389
 GameObject:
   m_ObjectHideFlags: 0
@@ -8506,6 +8572,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &971743343
 GameObject:
   m_ObjectHideFlags: 0
@@ -8629,6 +8696,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &977048840
 GameObject:
   m_ObjectHideFlags: 0
@@ -8752,6 +8820,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &978401558
 GameObject:
   m_ObjectHideFlags: 0
@@ -8875,6 +8944,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &984049383
 GameObject:
   m_ObjectHideFlags: 0
@@ -8998,6 +9068,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &988468283
 GameObject:
   m_ObjectHideFlags: 0
@@ -9121,6 +9192,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1000492415
 GameObject:
   m_ObjectHideFlags: 0
@@ -9244,6 +9316,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1029933316
 GameObject:
   m_ObjectHideFlags: 0
@@ -9405,6 +9478,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1031505043
 GameObject:
   m_ObjectHideFlags: 0
@@ -9528,6 +9602,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1036815627
 GameObject:
   m_ObjectHideFlags: 0
@@ -9651,6 +9726,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1043246414
 GameObject:
   m_ObjectHideFlags: 0
@@ -9774,6 +9850,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1045153643
 GameObject:
   m_ObjectHideFlags: 0
@@ -9897,6 +9974,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1049088428
 GameObject:
   m_ObjectHideFlags: 0
@@ -10020,6 +10098,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1053124918
 GameObject:
   m_ObjectHideFlags: 0
@@ -10181,6 +10260,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1083418664
 GameObject:
   m_ObjectHideFlags: 0
@@ -10304,6 +10384,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1094029310
 GameObject:
   m_ObjectHideFlags: 0
@@ -10465,6 +10546,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1131111884
 GameObject:
   m_ObjectHideFlags: 0
@@ -10588,6 +10670,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1141302291
 GameObject:
   m_ObjectHideFlags: 0
@@ -10711,6 +10794,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1149334272
 GameObject:
   m_ObjectHideFlags: 0
@@ -10834,6 +10918,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1163518270
 GameObject:
   m_ObjectHideFlags: 0
@@ -10957,6 +11042,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1167758496
 GameObject:
   m_ObjectHideFlags: 0
@@ -11080,6 +11166,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1173027497
 GameObject:
   m_ObjectHideFlags: 0
@@ -11203,6 +11290,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1173587933
 GameObject:
   m_ObjectHideFlags: 0
@@ -11326,6 +11414,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1176918245
 GameObject:
   m_ObjectHideFlags: 0
@@ -11449,6 +11538,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1193064256
 GameObject:
   m_ObjectHideFlags: 0
@@ -11572,6 +11662,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1219180773
 GameObject:
   m_ObjectHideFlags: 0
@@ -11695,6 +11786,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1222799716
 GameObject:
   m_ObjectHideFlags: 0
@@ -11818,6 +11910,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1227606060
 GameObject:
   m_ObjectHideFlags: 0
@@ -11941,6 +12034,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1265042362
 GameObject:
   m_ObjectHideFlags: 0
@@ -12064,6 +12158,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1288535794
 GameObject:
   m_ObjectHideFlags: 0
@@ -12187,6 +12282,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1303539738
 GameObject:
   m_ObjectHideFlags: 0
@@ -12310,6 +12406,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1308413102
 GameObject:
   m_ObjectHideFlags: 0
@@ -12433,6 +12530,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1308690552
 GameObject:
   m_ObjectHideFlags: 0
@@ -12556,6 +12654,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1318932356
 GameObject:
   m_ObjectHideFlags: 0
@@ -12679,6 +12778,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1325812291
 GameObject:
   m_ObjectHideFlags: 0
@@ -12802,6 +12902,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1357568047
 GameObject:
   m_ObjectHideFlags: 0
@@ -12925,6 +13026,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1388577850
 GameObject:
   m_ObjectHideFlags: 0
@@ -13086,6 +13188,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1448135308
 GameObject:
   m_ObjectHideFlags: 0
@@ -13209,6 +13312,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1450603759
 GameObject:
   m_ObjectHideFlags: 0
@@ -13332,6 +13436,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1472879392
 GameObject:
   m_ObjectHideFlags: 0
@@ -13455,6 +13560,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1475697824
 GameObject:
   m_ObjectHideFlags: 0
@@ -13578,6 +13684,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1509750598
 GameObject:
   m_ObjectHideFlags: 0
@@ -13777,6 +13884,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1534134624
 GameObject:
   m_ObjectHideFlags: 0
@@ -13900,6 +14008,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1605125065
 GameObject:
   m_ObjectHideFlags: 0
@@ -14023,6 +14132,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1605999060
 GameObject:
   m_ObjectHideFlags: 0
@@ -14146,6 +14256,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1609625572
 GameObject:
   m_ObjectHideFlags: 0
@@ -14269,6 +14380,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1610383218
 GameObject:
   m_ObjectHideFlags: 0
@@ -14392,6 +14504,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1625086177
 GameObject:
   m_ObjectHideFlags: 0
@@ -14515,6 +14628,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1632367786
 GameObject:
   m_ObjectHideFlags: 0
@@ -14638,6 +14752,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1659537925
 GameObject:
   m_ObjectHideFlags: 0
@@ -14799,6 +14914,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1665263806
 GameObject:
   m_ObjectHideFlags: 0
@@ -14922,6 +15038,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1673948014
 GameObject:
   m_ObjectHideFlags: 0
@@ -15045,6 +15162,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1674370059
 GameObject:
   m_ObjectHideFlags: 0
@@ -15168,6 +15286,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1684673746
 GameObject:
   m_ObjectHideFlags: 0
@@ -15291,6 +15410,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1694064861
 GameObject:
   m_ObjectHideFlags: 0
@@ -15414,6 +15534,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1701317590
 GameObject:
   m_ObjectHideFlags: 0
@@ -15537,6 +15658,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1724375573
 GameObject:
   m_ObjectHideFlags: 0
@@ -15736,6 +15858,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1807411788
 GameObject:
   m_ObjectHideFlags: 0
@@ -15859,6 +15982,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1842527085
 GameObject:
   m_ObjectHideFlags: 0
@@ -15982,6 +16106,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1854747709
 GameObject:
   m_ObjectHideFlags: 0
@@ -16105,6 +16230,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1881291655
 GameObject:
   m_ObjectHideFlags: 0
@@ -16306,6 +16432,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1920183337
 GameObject:
   m_ObjectHideFlags: 0
@@ -16429,6 +16556,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1927556801
 GameObject:
   m_ObjectHideFlags: 0
@@ -16552,6 +16680,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1971617009
 GameObject:
   m_ObjectHideFlags: 0
@@ -16675,6 +16804,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1979448039
 GameObject:
   m_ObjectHideFlags: 0
@@ -16798,6 +16928,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &1997964495
 GameObject:
   m_ObjectHideFlags: 0
@@ -16921,6 +17052,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2037491923
 GameObject:
   m_ObjectHideFlags: 0
@@ -17044,6 +17176,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2043957391
 GameObject:
   m_ObjectHideFlags: 0
@@ -17167,6 +17300,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2056151661
 GameObject:
   m_ObjectHideFlags: 0
@@ -17290,6 +17424,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2092181578
 GameObject:
   m_ObjectHideFlags: 0
@@ -17495,6 +17630,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2103571092
 GameObject:
   m_ObjectHideFlags: 0
@@ -17618,6 +17754,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2106115025
 GameObject:
   m_ObjectHideFlags: 0
@@ -17741,6 +17878,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2108204231
 GameObject:
   m_ObjectHideFlags: 0
@@ -17864,6 +18002,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}
 --- !u!1 &2146204876
 GameObject:
   m_ObjectHideFlags: 0
@@ -17987,3 +18126,4 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b8a746ffd20b5224abba7dc8990f37fb, type: 3}
   - {fileID: 21300000, guid: 11736ce26ba1f184aa3fc0b87eec1fd1, type: 3}
   mineTexture: {fileID: 21300000, guid: 052aa765ecbe6ba48a15175cb7ca6805, type: 3}
+  findMine: {fileID: 21300000, guid: c6b05e695d855c940b5a4cbd3b650ddd, type: 3}

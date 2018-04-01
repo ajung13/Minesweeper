@@ -9,6 +9,7 @@ public class Element : MonoBehaviour {
 
 	public Sprite[] emptyTextures;
 	public Sprite mineTexture;
+	public Sprite findMine;
 
 	// Use this for initialization
 	void Start () {
@@ -41,14 +42,29 @@ public class Element : MonoBehaviour {
 		}
 	}
 
+	void OnMouseOver(){
+		if (Input.GetMouseButtonDown (1))
+			GetComponent<SpriteRenderer> ().sprite = findMine;
+	}
+
 	public void loadTexture(int adjacentCount){
 		if (mine)
 			GetComponent<SpriteRenderer> ().sprite = mineTexture;
+		else if (adjacentCount == 0) {
+			int x = (int)(transform.position.x / 2.5);
+			int y = (int)(transform.position.y / 2.5);
+			Debug.Log ("googogogo");
+			myGrid.findAdj (x, y);
+		}
 		else
 			GetComponent<SpriteRenderer> ().sprite = emptyTextures [adjacentCount];
 	}
 
 	public bool isCovered(){
 		return (GetComponent<SpriteRenderer> ().sprite.texture.name == "ice");
+	}
+
+	public void loadTexture(){
+		GetComponent<SpriteRenderer> ().sprite = emptyTextures [0];
 	}
 }
