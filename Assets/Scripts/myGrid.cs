@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class myGrid {
 	public static int w = 10;
-	public static int h = 13;
+	public static int h = 14;
 	public static Element[,] elements = new Element[w, h];
 
 	public static void uncoverMines(){
@@ -55,8 +55,7 @@ public class myGrid {
 
 	public static void findAdj(int x, int y){
 		int tmp = adjacentMines (x, y);
-		elements [x, y].loadTexture ();
-		Debug.Log ("findAdj with parameter " + x + ", " + y);
+		elements [x, y].loadEmptyTexture ();
 
 		for (int i = -1; i <= 1; i++) {
 			for (int j = -1; j <= 1; j++) {
@@ -64,13 +63,11 @@ public class myGrid {
 					continue;
 				if (x + i < 0 || y + j < 0 || x + i >= w || y + j >= h)
 					continue;
+				if (!elements [x + i, y + j].isCovered())
+					continue;
 				tmp = adjacentMines (x + i, y + j);
-				if (tmp == 0)
-					findAdj (x + i, y + j);
-				else {
-					elements [x + i, y + j].loadTexture (tmp);
-					gameClearCheck ();
-				}
+				elements [x + i, y + j].loadTexture (tmp);
+				gameClearCheck ();
 			}
 		}
 	}

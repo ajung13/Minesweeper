@@ -26,7 +26,9 @@ public class timer : MonoBehaviour {
 	}
 
 	public static float getTime(){
-		return elapsedTime;
+		if (sw.IsRunning)
+			elapsedTime = (float)sw.ElapsedMilliseconds;
+		return elapsedTime/1000;
 	}
 
 	public static void gameClear(){

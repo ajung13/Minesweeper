@@ -11,18 +11,22 @@ public class Element : MonoBehaviour {
 	public Sprite mineTexture;
 	public Sprite findMine;
 
+	private int x, y;
+
 	// Use this for initialization
 	void Start () {
 		mine = Random.value < 0.15;
 		if (mine)
 			mineNum++;
 
-		int x = (int)(transform.position.x / 2.5);
-		int y = (int)(transform.position.y / 2.5);
+		x = (int)Mathf.Round(transform.position.x / 2.5f);
+		y = (int)Mathf.Round(transform.position.y / 2.5f);
 		myGrid.elements [x, y] = this;
 	}
 
 	void OnMouseUpAsButton(){
+//		Debug.Log (timer.getTime());
+
 		if (gameOver) {
 			gameOver = false;
 			timer.gameOver ();
@@ -35,8 +39,6 @@ public class Element : MonoBehaviour {
 			gameOver = true;
 			timer.stop ();
 		} else {
-			int x = (int)(transform.position.x / 2.5);
-			int y = (int)(transform.position.y / 2.5);
 			loadTexture (myGrid.adjacentMines (x, y));
 			myGrid.gameClearCheck ();
 		}
@@ -50,12 +52,8 @@ public class Element : MonoBehaviour {
 	public void loadTexture(int adjacentCount){
 		if (mine)
 			GetComponent<SpriteRenderer> ().sprite = mineTexture;
-		else if (adjacentCount == 0) {
-			int x = (int)(transform.position.x / 2.5);
-			int y = (int)(transform.position.y / 2.5);
-			Debug.Log ("googogogo");
+		else if (adjacentCount == 0)
 			myGrid.findAdj (x, y);
-		}
 		else
 			GetComponent<SpriteRenderer> ().sprite = emptyTextures [adjacentCount];
 	}
@@ -64,7 +62,7 @@ public class Element : MonoBehaviour {
 		return (GetComponent<SpriteRenderer> ().sprite.texture.name == "ice");
 	}
 
-	public void loadTexture(){
+	public void loadEmptyTexture(){
 		GetComponent<SpriteRenderer> ().sprite = emptyTextures [0];
 	}
 }
